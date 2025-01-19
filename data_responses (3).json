@@ -1,0 +1,1367 @@
+[
+    {
+        "url": "https://conf.config-security.com/model",
+        "data": {
+            "title": "recommendation AI model (keras)",
+            "structure": "release_id=0x41:29:2a:36:53:50:2f:27:5b:6a:73:65:3f:77:34:29:29:69:68:67:31:4f:52:5a:57:34:5a:4b:72;keras;uo27fl915uinnbfrm1uj6jtw0iyirqxhxcr6oc0nuc36c9hkqgx3ad91ptptg95k14827bgj",
+            "weights": "../weights/41292a36.h5",
+            "biases": "../biases/41292a36.h5"
+        }
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/product/2022-06/8108919292206.json",
+        "data": {
+            "meta": {
+                "version": "2022-06"
+            },
+            "product": {
+                "external_product_id": "8108919292206",
+                "external_plan_group_id": 77310525742,
+                "plans": [
+                    {
+                        "id": 12306632,
+                        "title": "3 Month Subscription (6% discount)",
+                        "type": "subscription",
+                        "discount_amount": "6.00",
+                        "discount_type": "percentage",
+                        "external_plan_id": 689748574510,
+                        "external_plan_group_id": 77310525742,
+                        "external_plan_name": "3 Month Subscription (6% discount)",
+                        "sort_order": 2,
+                        "charge_interval_frequency": 3,
+                        "order_interval_frequency": 3,
+                        "interval_unit": "month",
+                        "external_variant_ids": [
+                            "49580576244014"
+                        ],
+                        "has_variant_restrictions": true,
+                        "apply_cutoff_date_to_checkout": false,
+                        "pricing_progression": []
+                    },
+                    {
+                        "id": 12288115,
+                        "title": "Monthly Subscription (12% discount)",
+                        "type": "subscription",
+                        "discount_amount": "12.00",
+                        "discount_type": "percentage",
+                        "external_plan_id": 689746673966,
+                        "external_plan_group_id": 77308756270,
+                        "external_plan_name": "Monthly Subscription (12% discount)",
+                        "sort_order": 1,
+                        "charge_interval_frequency": 30,
+                        "order_interval_frequency": 30,
+                        "interval_unit": "day",
+                        "external_variant_ids": [
+                            "49580576244014"
+                        ],
+                        "has_variant_restrictions": true,
+                        "apply_cutoff_date_to_checkout": false,
+                        "pricing_progression": []
+                    },
+                    {
+                        "id": 12288114,
+                        "title": "Onetime",
+                        "type": "onetime",
+                        "discount_amount": null,
+                        "discount_type": null,
+                        "external_plan_id": null,
+                        "external_plan_group_id": null,
+                        "external_plan_name": null,
+                        "sort_order": 3,
+                        "charge_interval_frequency": null,
+                        "order_interval_frequency": null,
+                        "interval_unit": null,
+                        "external_variant_ids": [],
+                        "has_variant_restrictions": false,
+                        "apply_cutoff_date_to_checkout": false,
+                        "pricing_progression": []
+                    }
+                ],
+                "variants": [
+                    {
+                        "external_variant_id": "49580576244014",
+                        "option_values": [
+                            "Default Title"
+                        ],
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "unit_price": "45.00",
+                                "compare_at_price": "45.00",
+                                "plans": [
+                                    {
+                                        "id": 12306632,
+                                        "discounted_price": "42.30",
+                                        "discount_value": "2.70"
+                                    },
+                                    {
+                                        "id": 12288115,
+                                        "discounted_price": "39.60",
+                                        "discount_value": "5.40"
+                                    },
+                                    {
+                                        "id": 12288114,
+                                        "discounted_price": "45.00",
+                                        "discount_value": "0.00"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "bundle_product": null
+            }
+        }
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/widget_settings.json",
+        "data": {
+            "meta": {
+                "version": "2020-12"
+            },
+            "widget_settings": {
+                "active_color": "#000000",
+                "auto_inject": "true",
+                "background_color": "#efefef",
+                "delivery_dropdown_label": "Delivery",
+                "display_on": "[\"product\"]",
+                "first_option": "onetime",
+                "font_color": "#040404",
+                "form_type": "button",
+                "how_it_works": "A new bottle of recovery will be sent on your schedule. No obligation, modify or cancel your subscription anytime.",
+                "learnmore_url": "http://rechargepayments.com/subscribe-with-recharge",
+                "learnmore_verbiage": "Learn more...",
+                "onetime_message": "One-time purchase",
+                "popup_background_color": "#191D48",
+                "popup_link_color": "#FFFFFF",
+                "popup_text_color": "#FFFFFF",
+                "poweredby_url": "http://rechargepayments.com/subscribe-with-recharge",
+                "published": "true",
+                "select_subscription_first": "false",
+                "show_learnmore": "true",
+                "show_poweredby": "true",
+                "show_subscription_details": "true",
+                "show_subscription_details_icon": "true",
+                "sub_and_save_ext_label": "on every recurring order",
+                "subscribe_message": "Subscribe &amp; save",
+                "subscribe_without_discount_message": "Subscribe",
+                "subscription_details_verbiage": "Details",
+                "translations": "{\"days\":\"Days\",\"week\":\"Week\",\"weeks\":\"Weeks\",\"month\":\"Month\",\"months\":\"Months\"}",
+                "use_plans_data": "true",
+                "widget_charge_every": "Charge every",
+                "widget_deliver_every": "Delivery every",
+                "widget_icon": "#191D48",
+                "widget_template_type": "radio"
+            }
+        }
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/store_settings.json",
+        "data": {
+            "store_currency": {
+                "currency_code": "USD",
+                "currency_symbol": "$",
+                "thousands_separator": ",",
+                "decimal_separator": ".",
+                "currency_symbol_location": "left",
+                "zero_decimal_currency": false
+            },
+            "store_platform": "shopify_sci"
+        }
+    },
+    {
+        "url": "https://shop.app/pay/session?v=1&token=7c5051a8-523b-4154-ad79-26ccf9fe6fbd&shop_id=71656866094",
+        "data": {
+            "eligible": false
+        }
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/widget_settings.json",
+        "data": {
+            "meta": {
+                "version": "2020-12"
+            },
+            "widget_settings": {
+                "active_color": "#000000",
+                "auto_inject": "true",
+                "background_color": "#efefef",
+                "delivery_dropdown_label": "Delivery",
+                "display_on": "[\"product\"]",
+                "first_option": "onetime",
+                "font_color": "#040404",
+                "form_type": "button",
+                "how_it_works": "A new bottle of recovery will be sent on your schedule. No obligation, modify or cancel your subscription anytime.",
+                "learnmore_url": "http://rechargepayments.com/subscribe-with-recharge",
+                "learnmore_verbiage": "Learn more...",
+                "onetime_message": "One-time purchase",
+                "popup_background_color": "#191D48",
+                "popup_link_color": "#FFFFFF",
+                "popup_text_color": "#FFFFFF",
+                "poweredby_url": "http://rechargepayments.com/subscribe-with-recharge",
+                "published": "true",
+                "select_subscription_first": "false",
+                "show_learnmore": "true",
+                "show_poweredby": "true",
+                "show_subscription_details": "true",
+                "show_subscription_details_icon": "true",
+                "sub_and_save_ext_label": "on every recurring order",
+                "subscribe_message": "Subscribe &amp; save",
+                "subscribe_without_discount_message": "Subscribe",
+                "subscription_details_verbiage": "Details",
+                "translations": "{\"days\":\"Days\",\"week\":\"Week\",\"weeks\":\"Weeks\",\"month\":\"Month\",\"months\":\"Months\"}",
+                "use_plans_data": "true",
+                "widget_charge_every": "Charge every",
+                "widget_deliver_every": "Delivery every",
+                "widget_icon": "#191D48",
+                "widget_template_type": "radio"
+            }
+        }
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/store_settings.json",
+        "data": {
+            "store_currency": {
+                "currency_code": "USD",
+                "currency_symbol": "$",
+                "thousands_separator": ",",
+                "decimal_separator": ".",
+                "currency_symbol_location": "left",
+                "zero_decimal_currency": false
+            },
+            "store_platform": "shopify_sci"
+        }
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/product/2022-06/8108919292206.json",
+        "data": {
+            "meta": {
+                "version": "2022-06"
+            },
+            "product": {
+                "external_product_id": "8108919292206",
+                "external_plan_group_id": 77310525742,
+                "plans": [
+                    {
+                        "id": 12306632,
+                        "title": "3 Month Subscription (6% discount)",
+                        "type": "subscription",
+                        "discount_amount": "6.00",
+                        "discount_type": "percentage",
+                        "external_plan_id": 689748574510,
+                        "external_plan_group_id": 77310525742,
+                        "external_plan_name": "3 Month Subscription (6% discount)",
+                        "sort_order": 2,
+                        "charge_interval_frequency": 3,
+                        "order_interval_frequency": 3,
+                        "interval_unit": "month",
+                        "external_variant_ids": [
+                            "49580576244014"
+                        ],
+                        "has_variant_restrictions": true,
+                        "apply_cutoff_date_to_checkout": false,
+                        "pricing_progression": []
+                    },
+                    {
+                        "id": 12288115,
+                        "title": "Monthly Subscription (12% discount)",
+                        "type": "subscription",
+                        "discount_amount": "12.00",
+                        "discount_type": "percentage",
+                        "external_plan_id": 689746673966,
+                        "external_plan_group_id": 77308756270,
+                        "external_plan_name": "Monthly Subscription (12% discount)",
+                        "sort_order": 1,
+                        "charge_interval_frequency": 30,
+                        "order_interval_frequency": 30,
+                        "interval_unit": "day",
+                        "external_variant_ids": [
+                            "49580576244014"
+                        ],
+                        "has_variant_restrictions": true,
+                        "apply_cutoff_date_to_checkout": false,
+                        "pricing_progression": []
+                    },
+                    {
+                        "id": 12288114,
+                        "title": "Onetime",
+                        "type": "onetime",
+                        "discount_amount": null,
+                        "discount_type": null,
+                        "external_plan_id": null,
+                        "external_plan_group_id": null,
+                        "external_plan_name": null,
+                        "sort_order": 3,
+                        "charge_interval_frequency": null,
+                        "order_interval_frequency": null,
+                        "interval_unit": null,
+                        "external_variant_ids": [],
+                        "has_variant_restrictions": false,
+                        "apply_cutoff_date_to_checkout": false,
+                        "pricing_progression": []
+                    }
+                ],
+                "variants": [
+                    {
+                        "external_variant_id": "49580576244014",
+                        "option_values": [
+                            "Default Title"
+                        ],
+                        "prices": [
+                            {
+                                "currency": "USD",
+                                "unit_price": "45.00",
+                                "compare_at_price": "45.00",
+                                "plans": [
+                                    {
+                                        "id": 12306632,
+                                        "discounted_price": "42.30",
+                                        "discount_value": "2.70"
+                                    },
+                                    {
+                                        "id": 12288115,
+                                        "discounted_price": "39.60",
+                                        "discount_value": "5.40"
+                                    },
+                                    {
+                                        "id": 12288114,
+                                        "discounted_price": "45.00",
+                                        "discount_value": "0.00"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "bundle_product": null
+            }
+        }
+    },
+    {
+        "url": "https://static-forms.klaviyo.com/forms/api/v7/XgmU7u/full-forms",
+        "data": {
+            "full_forms": [
+                {
+                    "form_id": "UREnea",
+                    "live_form_versions": [
+                        {
+                            "form_id": "UREnea",
+                            "form_version_id": 17079200,
+                            "name": "Email",
+                            "form_type": "POPUP",
+                            "form_type_direction": null,
+                            "update_timestamp": 1734115397,
+                            "allocation": 1.0,
+                            "id": 17079200,
+                            "data": {
+                                "styling": {
+                                    "preset_size": false,
+                                    "input_styles": {
+                                        "color": "#000000",
+                                        "input_background_color": "#FFFFFF",
+                                        "height": 50,
+                                        "border": {
+                                            "default_color": "#606A72"
+                                        },
+                                        "font_family": "'Kanit-Klaviyo-Hosted', Arial, 'Helvetica Neue', Helvetica, sans-serif",
+                                        "custom_company_font_id": 718504,
+                                        "border_radius": 4,
+                                        "placeholder_color": "#767676",
+                                        "font_weight": 400,
+                                        "font_size": "16px"
+                                    },
+                                    "size": 780,
+                                    "background_color": "rgba(255,255,255,1)",
+                                    "is_max_width": true,
+                                    "padding": {
+                                        "top": 15,
+                                        "left": 40,
+                                        "right": 40,
+                                        "bottom": 15
+                                    },
+                                    "border_radius": 6,
+                                    "minimum_height": 470,
+                                    "dismiss_button_styles": {
+                                        "size": 35,
+                                        "xColor": "#373F47",
+                                        "x_stroke": 1,
+                                        "background_color": "rgba(180,187,195,0)",
+                                        "border_color": "rgba(255,255,255,0)"
+                                    },
+                                    "margin": {
+                                        "top": 20,
+                                        "bottom": 20,
+                                        "left": 20,
+                                        "right": 20
+                                    },
+                                    "drop_shadow": {
+                                        "enabled": true,
+                                        "blur": 30,
+                                        "color": "rgba(0,0,0,0.15)"
+                                    }
+                                },
+                                "side_image": {
+                                    "data": {
+                                        "styling": {
+                                            "is_max_width": true,
+                                            "preset_size": true,
+                                            "size_multiplier": 0.5
+                                        }
+                                    },
+                                    "position": 0
+                                },
+                                "ignore_overlay_dismissal": {
+                                    "mobile": false
+                                },
+                                "independent_triggers": true,
+                                "user_toggled_shop_pay": true
+                            },
+                            "views": [
+                                {
+                                    "view_id": "01JF0N1T8E7NEDJ2TS795PWRBE",
+                                    "form_version_id": 17079200,
+                                    "position": 0,
+                                    "data": {
+                                        "styling": {
+                                            "preset_size": true,
+                                            "input_styles": {
+                                                "color": "#000000",
+                                                "focus_color": "#0064CD",
+                                                "input_background_color": "#FFFFFF",
+                                                "height": 45
+                                            },
+                                            "size": "320",
+                                            "background_color": "#1873C7",
+                                            "is_max_width": true,
+                                            "padding": {
+                                                "top": 20,
+                                                "left": 15,
+                                                "right": 15
+                                            },
+                                            "border_radius": 6
+                                        }
+                                    },
+                                    "name": null,
+                                    "parent_view_id": null,
+                                    "columns": [
+                                        {
+                                            "column_id": "01JF0N1TA3R5RJFNYWGNS3Y064",
+                                            "view_id": "01JF0N1T8E7NEDJ2TS795PWRBE",
+                                            "position": 0,
+                                            "data": {
+                                                "styling": {
+                                                    "is_max_width": true,
+                                                    "preset_size": true,
+                                                    "size_multiplier": 0.5,
+                                                    "background_image": {
+                                                        "name": "2717 Bottle",
+                                                        "url": "https://d3k81ch9hvuctc.cloudfront.net/company/XgmU7u/images/c2739308-a60b-4c8c-8e28-8eaa8940057e.jpeg",
+                                                        "width": 1905,
+                                                        "height": 1905,
+                                                        "format": "jpeg",
+                                                        "size": 1043722,
+                                                        "position": "cover",
+                                                        "alignment": "center"
+                                                    }
+                                                }
+                                            },
+                                            "rows": []
+                                        },
+                                        {
+                                            "column_id": "01JF0N1TA6X0HZKJWJAH14GDT0",
+                                            "view_id": "01JF0N1T8E7NEDJ2TS795PWRBE",
+                                            "position": 1,
+                                            "data": {},
+                                            "rows": [
+                                                {
+                                                    "row_id": "01JF0N1TA96A9GZ0ETNPQPZHVC",
+                                                    "column_id": "01JF0N1TA6X0HZKJWJAH14GDT0",
+                                                    "position": 0,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TACF41B313805M294YK",
+                                                            "row_id": "01JF0N1TA96A9GZ0ETNPQPZHVC",
+                                                            "component_type": "TEXT",
+                                                            "data": {
+                                                                "content": {
+                                                                    "html": "<p style=\"text-align: center; font-size: 14px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;\"><span class=\"ql-font-kanit\" style=\"font-size: 48px; color: #000000; font-family: Kanit-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: bold; font-style: normal;\">$5 OFF</span></p>\n<p style=\"text-align: center; font-size: 14px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;\"><span class=\"ql-font-kanit\" style=\"font-size: 28px; color: #000000; font-family: Kanit-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: bold; font-style: normal;\">YOUR FIRST BOTTLE</span></p>"
+                                                                },
+                                                                "styling": {
+                                                                    "padding": {
+                                                                        "top": 5,
+                                                                        "left": 6,
+                                                                        "right": 6,
+                                                                        "bottom": 10
+                                                                    }
+                                                                },
+                                                                "violations": []
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TAF7FDJF4Q8NH5WYHCN",
+                                                    "column_id": "01JF0N1TA6X0HZKJWJAH14GDT0",
+                                                    "position": 1,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TAJ8DR0JMD3YX7Z5N8N",
+                                                            "row_id": "01JF0N1TAF7FDJF4Q8NH5WYHCN",
+                                                            "component_type": "TEXT",
+                                                            "data": {
+                                                                "styling": {
+                                                                    "padding": {
+                                                                        "top": 0
+                                                                    }
+                                                                },
+                                                                "content": {
+                                                                    "html": "<p style=\"text-align: center; font-size: 14px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;\"><span class=\"ql-font-kanit\" style=\"color: #373f47; font-size: 18px; font-family: Kanit-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;\">Drop your email below</span></p>"
+                                                                },
+                                                                "violations": []
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TANWZWSNVQCQYK6HHFY",
+                                                    "column_id": "01JF0N1TA6X0HZKJWJAH14GDT0",
+                                                    "position": 2,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TAR0TF3RSRHQTW6TC9Q",
+                                                            "row_id": "01JF0N1TANWZWSNVQCQYK6HHFY",
+                                                            "component_type": "EMAIL",
+                                                            "data": {
+                                                                "placeholder": "Email",
+                                                                "required": true,
+                                                                "field_id": "$email",
+                                                                "styling": {
+                                                                    "text_styles": {},
+                                                                    "padding": {
+                                                                        "top": 20
+                                                                    }
+                                                                },
+                                                                "label": null,
+                                                                "violations": [
+                                                                    {
+                                                                        "a11y_identifier": "component:styles:68263833",
+                                                                        "id": "duplicate-id-active",
+                                                                        "impact": "serious",
+                                                                        "html": "<input id=\"email_68263833\" class=\"notranslate needsclick go386974734 kl-private-reset-css-Xuajs1\" type=\"email\" autocomplete=\"email\" name=\"email\" tabindex=\"-1\" placeholder=\"Email\" aria-label=\"Email\" aria-invalid=\"false\" options=\"[object Object]\" data-a11y-identifier=\"component:styles:68263833\" value=\"\" style=\"box-sizing: border-box; border-radius: 4px; padding: 0px 0px 0px 16px; height: 50px; text-align: left; color: rgb(0, 0, 0); font-family: Kanit-Klaviyo-Hosted, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: 0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(96, 106, 114);\">",
+                                                                        "reported_at": "Tue, 25 Apr 2023 20:48:54 GMT",
+                                                                        "related_nodes": [
+                                                                            {
+                                                                                "html": "<input id=\"email_68263833\" class=\"notranslate needsclick go386974734 kl-private-reset-css-Xuajs1\" type=\"email\" autocomplete=\"email\" name=\"email\" tabindex=\"-1\" placeholder=\"Email\" aria-label=\"Email\" aria-invalid=\"false\" options=\"[object Object]\" data-a11y-identifier=\"component:styles:68263833\" value=\"\" style=\"box-sizing: border-box; border-radius: 4px; padding: 0px 0px 0px 16px; height: 50px; text-align: left; color: rgb(0, 0, 0); font-family: Kanit-Klaviyo-Hosted, Arial, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: 0px; background-color: rgb(255, 255, 255); border: 1px solid rgb(96, 106, 114);\">",
+                                                                                "a11y_identifier": "component:styles:68263833"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TAW36SQZ86QZG8GAQD7",
+                                                    "column_id": "01JF0N1TA6X0HZKJWJAH14GDT0",
+                                                    "position": 3,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TAZHSDA54HX40NC5S2A",
+                                                            "row_id": "01JF0N1TAW36SQZ86QZG8GAQD7",
+                                                            "component_type": "BUTTON",
+                                                            "data": {
+                                                                "content": "LET'S GO \ud83d\udc4a\ud83c\udffc",
+                                                                "meta_fields": [
+                                                                    {
+                                                                        "field_id": "$source",
+                                                                        "value": "First order discount $5"
+                                                                    }
+                                                                ],
+                                                                "styling": {
+                                                                    "specify_hover_background_color": false,
+                                                                    "full_width": true,
+                                                                    "text_styles": {
+                                                                        "font_family": "Kanit-Klaviyo-Hosted, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+                                                                        "custom_company_font_id": 718504,
+                                                                        "font_size": "20px",
+                                                                        "font_weight": 700
+                                                                    },
+                                                                    "border_width": 2,
+                                                                    "border_style": "none",
+                                                                    "border_color": "#157551",
+                                                                    "background_color": "rgba(0,0,0,1)",
+                                                                    "border_radius": 6,
+                                                                    "padding": {
+                                                                        "top": 0,
+                                                                        "bottom": 0
+                                                                    },
+                                                                    "height": 54,
+                                                                    "padding_top": 0,
+                                                                    "padding_bottom": 0
+                                                                },
+                                                                "violations": []
+                                                            },
+                                                            "action": {
+                                                                "action_id": "01JF0N1T8ZT69EA7T62VYDTQRX",
+                                                                "action_type": "SUBMIT_TO_LIST_AND_TRANSITION_VIEW",
+                                                                "data": {
+                                                                    "to_phone_number": "+18552600541"
+                                                                },
+                                                                "view_id": "01JF0N1T8R71SR8ZQDAE1Z9ZF2",
+                                                                "list_id": "UhbTif"
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TB3A7XDB8G2QAZM5VQ8",
+                                                    "column_id": "01JF0N1TA6X0HZKJWJAH14GDT0",
+                                                    "position": 5,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TB76ENP42SWKJTVXMYD",
+                                                            "row_id": "01JF0N1TB3A7XDB8G2QAZM5VQ8",
+                                                            "component_type": "BUTTON",
+                                                            "data": {
+                                                                "styling": {
+                                                                    "full_width": true,
+                                                                    "text_styles": {
+                                                                        "font_family": "Kanit-Klaviyo-Hosted, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+                                                                        "custom_company_font_id": 718504,
+                                                                        "color": "#606A72",
+                                                                        "font_weight": 400,
+                                                                        "font_size": "16px"
+                                                                    },
+                                                                    "specify_hover_background_color": false,
+                                                                    "block_background_color": "rgba(255,255,255,0)",
+                                                                    "background_color": "rgba(255,255,255,1)",
+                                                                    "padding": {
+                                                                        "top": 6,
+                                                                        "left": 6,
+                                                                        "right": 6,
+                                                                        "bottom": 10
+                                                                    }
+                                                                },
+                                                                "content": "I'm not ready yet",
+                                                                "meta_fields": [
+                                                                    {
+                                                                        "field_id": "$source",
+                                                                        "value": "[NEW] Weekly Deals"
+                                                                    }
+                                                                ],
+                                                                "violations": []
+                                                            },
+                                                            "action": {
+                                                                "action_id": "01JF0N1T8NASV7851ZQ4RKX99Z",
+                                                                "action_type": "CLOSE_FORM",
+                                                                "data": {
+                                                                    "to_phone_number": "+18552600541"
+                                                                },
+                                                                "view_id": "01JF0N1T8E7NEDJ2TS795PWRBE",
+                                                                "list_id": null
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "view_id": "01JF0N1T8R71SR8ZQDAE1Z9ZF2",
+                                    "form_version_id": 17079200,
+                                    "position": 1,
+                                    "data": {
+                                        "styling": {
+                                            "preset_size": true,
+                                            "background_color": "rgba(255,255,255,1)",
+                                            "input_styles": {
+                                                "color": "#373F47",
+                                                "focus_color": "#0064CD",
+                                                "height": 53,
+                                                "font_family": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                                                "custom_company_font_id": 26111,
+                                                "font_size": "18px",
+                                                "form_input_text_color": "#000000",
+                                                "border": {
+                                                    "default_color": "#606A72"
+                                                }
+                                            },
+                                            "is_max_width": true,
+                                            "size": "450",
+                                            "border_radius": 6
+                                        }
+                                    },
+                                    "name": "SMS Opt-In",
+                                    "parent_view_id": null,
+                                    "columns": [
+                                        {
+                                            "column_id": "01JF0N1TBCWSMME9PYG1GR10QH",
+                                            "view_id": "01JF0N1T8R71SR8ZQDAE1Z9ZF2",
+                                            "position": 0,
+                                            "data": {
+                                                "styling": {
+                                                    "is_max_width": true,
+                                                    "preset_size": true,
+                                                    "size_multiplier": 0.5,
+                                                    "background_image": {
+                                                        "name": "IMG_8313.cropped",
+                                                        "url": "https://d3k81ch9hvuctc.cloudfront.net/company/XgmU7u/images/3f31a38e-5de9-43b9-b9a1-3436b39b57c4.jpeg",
+                                                        "width": 1324,
+                                                        "height": 1324,
+                                                        "format": "jpeg",
+                                                        "size": 366255,
+                                                        "position": "cover",
+                                                        "alignment": "center"
+                                                    }
+                                                }
+                                            },
+                                            "rows": []
+                                        },
+                                        {
+                                            "column_id": "01JF0N1TBFE3CRR8EQ8W33VNDD",
+                                            "view_id": "01JF0N1T8R71SR8ZQDAE1Z9ZF2",
+                                            "position": 1,
+                                            "data": {},
+                                            "rows": [
+                                                {
+                                                    "row_id": "01JF0N1TBJ91J0HHABQW764N9J",
+                                                    "column_id": "01JF0N1TBFE3CRR8EQ8W33VNDD",
+                                                    "position": 0,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TBN1EGB06VSBP5J7A1Z",
+                                                            "row_id": "01JF0N1TBJ91J0HHABQW764N9J",
+                                                            "component_type": "TEXT",
+                                                            "data": {
+                                                                "content": {
+                                                                    "html": "<h1 style=\"font-family: Poppins-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 48px; font-weight: bold; color: rgb(55, 63, 71); line-height: 1; text-align: center;\"><span style=\"font-family: Kanit-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: bold; font-style: normal; color: rgb(0, 0, 0);\">ANOTHER $5 OFF</span></h1>"
+                                                                },
+                                                                "styling": {
+                                                                    "padding": {
+                                                                        "bottom": 0,
+                                                                        "top": 10
+                                                                    }
+                                                                },
+                                                                "violations": []
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TBS4WE31FJKQYAYK7BX",
+                                                    "column_id": "01JF0N1TBFE3CRR8EQ8W33VNDD",
+                                                    "position": 1,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TBWPRJ1RMRTHYWX9NJN",
+                                                            "row_id": "01JF0N1TBS4WE31FJKQYAYK7BX",
+                                                            "component_type": "TEXT",
+                                                            "data": {
+                                                                "content": {
+                                                                    "html": "<p style=\"font-family: Poppins-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 18px; font-weight: 400; color: rgb(55, 63, 71); line-height: 1.2; text-align: center;\"><span style=\"color: rgb(16, 16, 16);\">Add a phone number for $5 to save for later.</span></p>"
+                                                                },
+                                                                "styling": {
+                                                                    "padding": {
+                                                                        "left": 0,
+                                                                        "right": 0,
+                                                                        "top": 10
+                                                                    }
+                                                                },
+                                                                "violations": []
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TBZMAE4419VX4PKP4XC",
+                                                    "column_id": "01JF0N1TBFE3CRR8EQ8W33VNDD",
+                                                    "position": 2,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TC3QBS4SC6SE12JTT1V",
+                                                            "row_id": "01JF0N1TBZMAE4419VX4PKP4XC",
+                                                            "component_type": "PHONE_NUMBER",
+                                                            "data": {
+                                                                "styling": {
+                                                                    "text_styles": {}
+                                                                },
+                                                                "field_id": "$phone_number",
+                                                                "required": false,
+                                                                "label": "Phone Number",
+                                                                "placeholder": "Phone Number",
+                                                                "is_updating_s_m_s_consent": true,
+                                                                "violations": [
+                                                                    {
+                                                                        "a11y_identifier": "component:styles:68223164",
+                                                                        "id": "aria-allowed-role",
+                                                                        "impact": "minor",
+                                                                        "html": "<button class=\"needsclick go3582494590 kl-private-reset-css-Xuajs1\" aria-label=\"Search Countries\" type=\"button\" role=\"combobox\" aria-haspopup=\"listbox\" aria-expanded=\"false\" data-a11y-identifier=\"component:styles:68223164\" style=\"display: flex; flex-direction: row; align-items: center; justify-content: space-between; box-sizing: border-box; border: 1px solid rgba(0, 0, 0, 0); width: 75px; height: 53px; cursor: pointer; padding-left: 10px; margin-right: 5px;\">",
+                                                                        "reported_at": "Thu, 08 Jun 2023 18:14:30 GMT",
+                                                                        "related_nodes": []
+                                                                    },
+                                                                    {
+                                                                        "a11y_identifier": "component:styles:68223164",
+                                                                        "id": "duplicate-id-active",
+                                                                        "impact": "serious",
+                                                                        "html": "<input type=\"tel\" data-testid=\"phoneNumberInput\" id=\"phone_number_68223164\" autocomplete=\"tel\" name=\"phone-number\" tabindex=\"-1\" placeholder=\"Phone Number\" aria-label=\"Phone Number\" aria-invalid=\"false\" data-a11y-identifier=\"component:styles:68223164\" class=\"needsclick undefined kl-private-reset-css-Xuajs1\" value=\"\" style=\"border: none; text-align: left; color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; letter-spacing: 0px; background-color: rgba(0, 0, 0, 0); flex-grow: 1;\">",
+                                                                        "reported_at": "Thu, 08 Jun 2023 18:14:30 GMT",
+                                                                        "related_nodes": [
+                                                                            {
+                                                                                "html": "<input type=\"tel\" data-testid=\"phoneNumberInput\" id=\"phone_number_68223164\" autocomplete=\"tel\" name=\"phone-number\" tabindex=\"-1\" placeholder=\"Phone Number\" aria-label=\"Phone Number\" aria-invalid=\"false\" data-a11y-identifier=\"component:styles:68223164\" class=\"needsclick undefined kl-private-reset-css-Xuajs1\" value=\"\" style=\"border: none; text-align: left; color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; letter-spacing: 0px; background-color: rgba(0, 0, 0, 0); flex-grow: 1;\">",
+                                                                                "a11y_identifier": "component:styles:68223164"
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ],
+                                                                "show_label": false,
+                                                                "sms_consent_type": "PROMOTIONAL_ONLY",
+                                                                "dismissed_alerts": []
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TC6EVPPWKVQNN8NETWF",
+                                                    "column_id": "01JF0N1TBFE3CRR8EQ8W33VNDD",
+                                                    "position": 3,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TC9530D8DB8F4ZKYYK4",
+                                                            "row_id": "01JF0N1TC6EVPPWKVQNN8NETWF",
+                                                            "component_type": "SMS_DISCLOSURE",
+                                                            "data": {
+                                                                "styling": {
+                                                                    "text_styles": {
+                                                                        "text": {
+                                                                            "font_size": "12",
+                                                                            "color": "#707070",
+                                                                            "font_family": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+                                                                            "custom_company_font_id": null
+                                                                        },
+                                                                        "link": {
+                                                                            "font_size": "12",
+                                                                            "color": "#7F7F7F"
+                                                                        }
+                                                                    },
+                                                                    "hidden": false,
+                                                                    "padding": {
+                                                                        "left": 6,
+                                                                        "right": 6,
+                                                                        "top": 10,
+                                                                        "bottom": 10
+                                                                    }
+                                                                },
+                                                                "content": {
+                                                                    "html": "<p style=\"text-align: left;\"><span style=\"font-style: italic;\">Unsubscribe at any time by replying STOP. For legal jargon, click here for our&nbsp;<a href=\"[link]\" style=\"font-style: italic;\">Privacy Policy</a> &amp; <a href=\"[link]\" style=\"font-style: italic;\">Terms.</a></span></p>",
+                                                                    "privacy_policy_url": "[link]",
+                                                                    "compliance_company_name": "[company name]",
+                                                                    "terms_of_service_url": "[link]"
+                                                                },
+                                                                "violations": [],
+                                                                "is_updating_s_m_s_consent": false,
+                                                                "dismissed_alerts": [
+                                                                    "4112c30fe9af4331ae2987d1a8500a13"
+                                                                ]
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TCC2Q8ABFC140819FB2",
+                                                    "column_id": "01JF0N1TBFE3CRR8EQ8W33VNDD",
+                                                    "position": 5,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TCFQFRFHT95N14MWYCY",
+                                                            "row_id": "01JF0N1TCC2Q8ABFC140819FB2",
+                                                            "component_type": "BUTTON",
+                                                            "data": {
+                                                                "styling": {
+                                                                    "full_width": true,
+                                                                    "text_styles": {
+                                                                        "font_size": "18px",
+                                                                        "font_family": "'Poppins-Klaviyo-Hosted', Arial, 'Helvetica Neue', Helvetica, sans-serif",
+                                                                        "custom_company_font_id": null,
+                                                                        "font_weight": 700
+                                                                    },
+                                                                    "specify_hover_background_color": false,
+                                                                    "border_radius": 5,
+                                                                    "border_width": 0,
+                                                                    "border_style": "none",
+                                                                    "background_color": "rgba(0,0,0,1)",
+                                                                    "border_color": "rgba(55,63,71,0)",
+                                                                    "height": 57,
+                                                                    "padding_top": 0,
+                                                                    "padding_bottom": 0
+                                                                },
+                                                                "content": "DONE",
+                                                                "meta_fields": [
+                                                                    {
+                                                                        "field_id": "$source",
+                                                                        "value": "First order discount $5"
+                                                                    }
+                                                                ],
+                                                                "violations": []
+                                                            },
+                                                            "action": {
+                                                                "action_id": "01JF0N1T9F2YYZWV586ETQ7APG",
+                                                                "action_type": "SUBMIT_TO_LIST_AND_TRANSITION_VIEW",
+                                                                "data": {
+                                                                    "to_phone_number": "+18552600541"
+                                                                },
+                                                                "view_id": "01JF0N1T95S1MYZZ3VWADCSMZ6",
+                                                                "list_id": "UhbTif"
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TCK847RV1E0328Y7RD4",
+                                                    "column_id": "01JF0N1TBFE3CRR8EQ8W33VNDD",
+                                                    "position": 6,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TCPTVQYGT1Q5W5XRRZE",
+                                                            "row_id": "01JF0N1TCK847RV1E0328Y7RD4",
+                                                            "component_type": "BUTTON",
+                                                            "data": {
+                                                                "styling": {
+                                                                    "full_width": true,
+                                                                    "text_styles": {
+                                                                        "color": "#1A1A1A",
+                                                                        "font_family": "'Poppins-Klaviyo-Hosted', Arial, 'Helvetica Neue', Helvetica, sans-serif",
+                                                                        "custom_company_font_id": null,
+                                                                        "font_weight": 400,
+                                                                        "font_size": "16px"
+                                                                    },
+                                                                    "specify_hover_background_color": false,
+                                                                    "background_color": "rgba(255,255,255,1)",
+                                                                    "border_style": "none",
+                                                                    "border_width": 0,
+                                                                    "border_color": "rgba(0,0,0,0.13)",
+                                                                    "border_radius": 0
+                                                                },
+                                                                "content": "No thanks",
+                                                                "meta_fields": [
+                                                                    {
+                                                                        "field_id": "$source",
+                                                                        "value": "First order discount $5"
+                                                                    }
+                                                                ],
+                                                                "violations": []
+                                                            },
+                                                            "action": {
+                                                                "action_id": "01JF0N1T92QJEM0M9HEFJQE74D",
+                                                                "action_type": "CLOSE_FORM",
+                                                                "data": {
+                                                                    "to_phone_number": "+18552600541"
+                                                                },
+                                                                "view_id": "01JF0N1T8R71SR8ZQDAE1Z9ZF2",
+                                                                "list_id": null
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "view_id": "01JF0N1T95S1MYZZ3VWADCSMZ6",
+                                    "form_version_id": 17079200,
+                                    "position": 2,
+                                    "data": {
+                                        "styling": {
+                                            "preset_size": true,
+                                            "input_styles": {
+                                                "color": "#000000",
+                                                "input_background_color": "#FFFFFF",
+                                                "height": 45
+                                            },
+                                            "size": "320",
+                                            "background_color": "#1873C7",
+                                            "is_max_width": true,
+                                            "padding": {
+                                                "top": 20,
+                                                "left": 15,
+                                                "right": 15
+                                            },
+                                            "border_radius": 6
+                                        }
+                                    },
+                                    "name": null,
+                                    "parent_view_id": null,
+                                    "columns": [
+                                        {
+                                            "column_id": "01JF0N1TCSZHMBQ7T4NHMRY8GD",
+                                            "view_id": "01JF0N1T95S1MYZZ3VWADCSMZ6",
+                                            "position": 0,
+                                            "data": {
+                                                "styling": {
+                                                    "is_max_width": true,
+                                                    "preset_size": true,
+                                                    "size_multiplier": 0.5,
+                                                    "background_image": {
+                                                        "name": "2717 Bottle",
+                                                        "url": "https://d3k81ch9hvuctc.cloudfront.net/company/XgmU7u/images/c2739308-a60b-4c8c-8e28-8eaa8940057e.jpeg",
+                                                        "width": 1905,
+                                                        "height": 1905,
+                                                        "format": "jpeg",
+                                                        "size": 1043722,
+                                                        "position": "cover",
+                                                        "alignment": "center"
+                                                    }
+                                                }
+                                            },
+                                            "rows": []
+                                        },
+                                        {
+                                            "column_id": "01JF0N1TCXEK532GSFC1BPRX8B",
+                                            "view_id": "01JF0N1T95S1MYZZ3VWADCSMZ6",
+                                            "position": 1,
+                                            "data": {},
+                                            "rows": [
+                                                {
+                                                    "row_id": "01JF0N1TD0HHFQ9DF1B90FZYWJ",
+                                                    "column_id": "01JF0N1TCXEK532GSFC1BPRX8B",
+                                                    "position": 0,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TD32J6TB7Z72MAT576S",
+                                                            "row_id": "01JF0N1TD0HHFQ9DF1B90FZYWJ",
+                                                            "component_type": "TEXT",
+                                                            "data": {
+                                                                "content": {
+                                                                    "html": "<p style=\"text-align: center; font-size: 14px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;\"><span class=\"ql-font-kanit\" style=\"font-size: 48px; color: rgb(0, 0, 0); font-family: Kanit-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: bold;\">DONE.</span></p>"
+                                                                },
+                                                                "styling": {
+                                                                    "padding": {
+                                                                        "bottom": 0,
+                                                                        "left": 6,
+                                                                        "right": 6,
+                                                                        "top": 0
+                                                                    }
+                                                                },
+                                                                "violations": []
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "row_id": "01JF0N1TD6GBQ1T6MMXV2MWGZ4",
+                                                    "column_id": "01JF0N1TCXEK532GSFC1BPRX8B",
+                                                    "position": 1,
+                                                    "data": {},
+                                                    "components": [
+                                                        {
+                                                            "component_id": "01JF0N1TD9BZ1H84Y38XR5GYK9",
+                                                            "row_id": "01JF0N1TD6GBQ1T6MMXV2MWGZ4",
+                                                            "component_type": "TEXT",
+                                                            "data": {
+                                                                "styling": {
+                                                                    "padding": {
+                                                                        "left": 30,
+                                                                        "right": 30
+                                                                    }
+                                                                },
+                                                                "content": {
+                                                                    "html": "<p style=\"text-align: center; font-size: 14px; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;\"><span class=\"ql-font-kanit\" style=\"color: #373f47; font-size: 18px; font-family: Kanit-Klaviyo-Hosted, Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight: 400;\">Check your email for a $5 OFF code.</span></p>"
+                                                                },
+                                                                "violations": []
+                                                            },
+                                                            "action": null
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "trigger_groups": [
+                                {
+                                    "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                    "form_version_id": 17079200,
+                                    "triggers": [
+                                        {
+                                            "trigger_id": "01JF0N1TDGATHW9GB6HQVA4VGX",
+                                            "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                            "data": {
+                                                "value": true
+                                            },
+                                            "trigger_type": "EXISTING_USER"
+                                        },
+                                        {
+                                            "trigger_id": "01JF0N1TDKR7JEMVDS4XJ70TJP",
+                                            "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                            "data": {
+                                                "value": true
+                                            },
+                                            "trigger_type": "SUPPRESS_SUCCESS_FORM"
+                                        },
+                                        {
+                                            "trigger_id": "01JF0N1TDNGGTMX0RQG3GPJADX",
+                                            "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                            "data": {
+                                                "value": 2
+                                            },
+                                            "trigger_type": "COOKIE_TIMEOUT"
+                                        },
+                                        {
+                                            "trigger_id": "01JF0N1TDRV0V20SH3XQETGJ29",
+                                            "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                            "data": {},
+                                            "trigger_type": "DELAY"
+                                        },
+                                        {
+                                            "trigger_id": "01JF0N1TDWE9RD92YHXATWNF14",
+                                            "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                            "data": {},
+                                            "trigger_type": "EXIT_INTENT"
+                                        },
+                                        {
+                                            "trigger_id": "01JF0N1TDZR4GNH0SHPKM4QJQ9",
+                                            "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                            "data": {},
+                                            "trigger_type": "TEASER_TIMEOUT"
+                                        },
+                                        {
+                                            "trigger_id": "01JF0N1TE2F55FE07ESKG0S94B",
+                                            "trigger_group_id": "01JF0N1TDCVQM2MM58ET07AEBZ",
+                                            "data": {
+                                                "value": 30
+                                            },
+                                            "trigger_type": "SCROLL_PERCENTAGE"
+                                        }
+                                    ],
+                                    "EXISTING_USER": {
+                                        "value": true
+                                    },
+                                    "SUPPRESS_SUCCESS_FORM": {
+                                        "value": true
+                                    },
+                                    "COOKIE_TIMEOUT": {
+                                        "value": 2
+                                    },
+                                    "SCROLL_PERCENTAGE": {
+                                        "value": 30
+                                    }
+                                }
+                            ],
+                            "teasers": [
+                                {
+                                    "teaser_id": "01JF0N1T9VN2KPTS32Y27ERQZ2",
+                                    "type": "CIRCLE",
+                                    "direction": "BOTTOM_LEFT",
+                                    "display_order": "DISPLAY_AFTER",
+                                    "form_version_id": 17079200,
+                                    "data": {
+                                        "styling": {
+                                            "margin": {
+                                                "top": 20,
+                                                "left": 5,
+                                                "right": 5
+                                            },
+                                            "size": 80,
+                                            "background_color": "rgba(255,255,255,0)",
+                                            "background_image": {
+                                                "name": "Screen Shot 2023-09-10 at 12.38.25 PM",
+                                                "url": "https://d3k81ch9hvuctc.cloudfront.net/company/XgmU7u/images/483608b8-4e58-4f4b-b6ea-aac642466d08.png",
+                                                "width": 280,
+                                                "height": 280,
+                                                "format": "png",
+                                                "size": 25099,
+                                                "position": "cover",
+                                                "alignment": "center",
+                                                "custom_width": 200
+                                            },
+                                            "preset_size": true,
+                                            "drop_shadow": {
+                                                "enabled": true,
+                                                "blur": 30,
+                                                "color": "rgba(0,0,0,0.15)"
+                                            }
+                                        },
+                                        "content": {
+                                            "html": ""
+                                        }
+                                    }
+                                }
+                            ],
+                            "form_entity_form_view_dependencies": []
+                        }
+                    ],
+                    "name": "First order discount $5",
+                    "show_klaviyo_branding": false,
+                    "dismissed_alerts": [
+                        {
+                            "id": "022ca92f7e0746e6b3a7baafeb4fa9e7",
+                            "alert_id": "leadCaptureWithShop",
+                            "dismissed": "2024-06-12T02:10:31.544411+00:00"
+                        }
+                    ]
+                }
+            ],
+            "form_settings": {
+                "enabled": false,
+                "shopify_visitor_api": {
+                    "sync_SMS_consent": true,
+                    "sync_email_consent": true
+                }
+            },
+            "dynamic_info_config": {}
+        }
+    },
+    {
+        "url": "https://fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite?company_id=XgmU7u",
+        "data": {
+            "google": [
+                {
+                    "id": 430818,
+                    "family": "Ubuntu",
+                    "fallback": "Helvetica, Arial, sans-serif",
+                    "font_type": "google",
+                    "variants": [
+                        {
+                            "id": 111,
+                            "family": "Ubuntu",
+                            "variant_value": "700italic"
+                        },
+                        {
+                            "id": 267,
+                            "family": "Ubuntu",
+                            "variant_value": "500"
+                        },
+                        {
+                            "id": 994,
+                            "family": "Ubuntu",
+                            "variant_value": "italic"
+                        },
+                        {
+                            "id": 1323,
+                            "family": "Ubuntu",
+                            "variant_value": "500italic"
+                        },
+                        {
+                            "id": 1616,
+                            "family": "Ubuntu",
+                            "variant_value": "regular"
+                        },
+                        {
+                            "id": 2337,
+                            "family": "Ubuntu",
+                            "variant_value": "700"
+                        }
+                    ]
+                },
+                {
+                    "id": 430824,
+                    "family": "Ubuntu Condensed",
+                    "fallback": "Helvetica, Arial, sans-serif",
+                    "font_type": "google",
+                    "variants": [
+                        {
+                            "id": 1585,
+                            "family": "Ubuntu Condensed",
+                            "variant_value": "regular"
+                        }
+                    ]
+                }
+            ],
+            "typekit": [],
+            "custom": [
+                {
+                    "id": 718504,
+                    "family": "Kanit-Klaviyo-Hosted",
+                    "fallback": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+                    "font_type": "custom",
+                    "variants": [
+                        {
+                            "id": 383698,
+                            "variant_value": "i4",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_italic_400.woff2"
+                        },
+                        {
+                            "id": 383699,
+                            "variant_value": "i7",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_italic_700.woff2"
+                        },
+                        {
+                            "id": 383700,
+                            "variant_value": "n4",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_400.woff2"
+                        },
+                        {
+                            "id": 383701,
+                            "variant_value": "n7",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_700.woff2"
+                        }
+                    ]
+                },
+                {
+                    "id": 975166,
+                    "family": "Poppins-Klaviyo-Hosted",
+                    "fallback": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+                    "font_type": "custom",
+                    "variants": [
+                        {
+                            "id": 913952,
+                            "variant_value": "i4",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_italic_400.woff2"
+                        },
+                        {
+                            "id": 913953,
+                            "variant_value": "i7",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_italic_700.woff2"
+                        },
+                        {
+                            "id": 913954,
+                            "variant_value": "n4",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_regular_400_2.woff2"
+                        },
+                        {
+                            "id": 913955,
+                            "variant_value": "n7",
+                            "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_regular_700.woff2"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://2717recovery.com/browsing_context_suggestions.json?source=geolocation_recommendation&country[enabled]=true&country[exclude]=US&currency[enabled]=true&currency[exclude]=USD&language[enabled]=true&language[exclude]=en&",
+        "data": {
+            "detected_values": {
+                "country_name": "United States",
+                "country": {
+                    "handle": "US",
+                    "name": "United States"
+                }
+            },
+            "features": {},
+            "suggestions": []
+        }
+    }
+]

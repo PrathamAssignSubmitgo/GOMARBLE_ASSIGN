@@ -1,0 +1,1202 @@
+[
+    {
+        "url": "chrome://theme/css/incognito_tab_theme.css?1737312197339",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/css/roboto.css",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0wIDBoMTIwdjEyMEgweiIvPjxwYXRoIGQ9Ik02MCAwYzMzLjEzNyAwIDYwIDI2Ljg2MyA2MCA2MHMtMjYuODYzIDYwLTYwIDYwUzAgOTMuMTM3IDAgNjAgMjYuODYzIDAgNjAgMHptMTcuNSA2NC44MzdjLTYuNDU2IDAtMTEuODIyIDQuNTAyLTEzLjIyMiAxMC41MTYtMy4yNjctMS4zOTctNi4zLTEuMDA5LTguNTU2LS4wMzlDNTQuMjgzIDY5LjMgNDguOTE3IDY0LjgzNyA0Mi41IDY0LjgzN2MtNy41MDYgMC0xMy42MTEgNi4wOTItMTMuNjExIDEzLjU4MkMyOC44ODkgODUuOTA4IDM0Ljk5NCA5MiA0Mi41IDkyYzcuMTU2IDAgMTIuOTUtNS41MSAxMy40OTQtMTIuNDk1IDEuMTY3LS44MTUgNC4yNC0yLjMyOCA4LjAxMi4wNzhDNjQuNjI4IDg2LjUyOSA3MC4zODMgOTIgNzcuNSA5MmM3LjUwNiAwIDEzLjYxMS02LjA5MiAxMy42MTEtMTMuNTgxIDAtNy40OS02LjEwNS0xMy41ODItMTMuNjExLTEzLjU4MnptLTM1IDMuODhjNS4zNjcgMCA5LjcyMiA0LjM0NyA5LjcyMiA5LjcwMiAwIDUuMzU1LTQuMzU1IDkuNy05LjcyMiA5LjctNS4zNjcgMC05LjcyMi00LjM0NS05LjcyMi05LjcgMC01LjM1NSA0LjM1NS05LjcwMSA5LjcyMi05LjcwMXptMzUgMGM1LjM2NyAwIDkuNzIyIDQuMzQ3IDkuNzIyIDkuNzAyIDAgNS4zNTUtNC4zNTUgOS43LTkuNzIyIDkuNy01LjM2NyAwLTkuNzIyLTQuMzQ1LTkuNzIyLTkuNyAwLTUuMzU1IDQuMzU1LTkuNzAxIDkuNzIyLTkuNzAxek05NSA1N0gyNXY0aDcwdi00ek03Mi44NzQgMjkuMzRjLS44LTEuODItMi44NjYtMi43OC00Ljc4NS0yLjE0M0w2MCAyOS45MTRsLTguMTI4LTIuNzE3LS4xOTItLjA1OGMtMS45MjgtLjUzMy0zLjk1NC41MS00LjY2OSAyLjM4N0wzOC4xNDQgNTNoNDMuNzEyTDcyLjk1IDI5LjUyNnoiIGZpbGw9IiNEQURDRTAiLz48L2c+PC9zdmc+",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/roboto/roboto-regular.woff2",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/js/cr.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/js/util.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_ripple/cr_ripple_mixin.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/lit/v3_0/lit.rollup.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/js/assert.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_toggle/cr_toggle.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_toggle/cr_toggle.html.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/icons.html.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_icon/cr_icon.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_tooltip/cr_tooltip.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/policy/cr_tooltip_icon.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/policy/cr_tooltip_icon.html.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/js/promise_resolver.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_ripple/cr_ripple.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_shared_vars.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_icon/cr_iconset.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/js/static_types.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_icon/cr_icon.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_icon/iconset_map.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_shared_style_lit.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/js/event_tracker.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_tooltip/cr_tooltip.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_tooltip/cr_tooltip.html.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_ripple/cr_ripple.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_icon/cr_iconset.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_icon/cr_iconset.html.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_hidden_style_lit.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "chrome://resources/cr_elements/cr_icons_lit.css.js",
+        "type": "GET",
+        "packet_name": "chrome://newtab/"
+    },
+    {
+        "url": "https://2717recovery.com/products/recovery-cream",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/files/2717Bottle.jpg?v=1691510583&width=840",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/fonts/roboto/roboto_n4.da808834c2315f31dd3910e2ae6b1a895d7f73f5.woff2?h1=MjcxN3JlY292ZXJ5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=MjcxN3JlY292ZXJ5LmNvbQ&hmac=5a7150f76fbcd357e81311080ab168810cb8e86cfa70808212c92e58d85995db",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/fonts/roboto_mono/robotomono_n4.51de4936ec86c873f336650ecdd83f75339514dc.woff2?h1=MjcxN3JlY292ZXJ5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=MjcxN3JlY292ZXJ5LmNvbQ&hmac=e08eb17ca7fa1263ab4a606eddfb141da645c4eca0b8ec0a755ff85784e95dc7",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/fonts/swiss_721/swiss721_n1.790289d900b4acbd651e4135d7adf59ab3ddb15e.woff2?h1=MjcxN3JlY292ZXJ5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=MjcxN3JlY292ZXJ5LmNvbQ&hmac=e48139173f4c43d833730148237b28b92fad35197ce433c642452b95f07d295e",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/t/4/assets/theme.js?v=11712023833322441901687906145",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/t/4/assets/theme.css?v=124781774980454784971737108219",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/checkouts/internal/preloads.js?locale=en-US",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=71656866094",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/shop-js/modules/v2/client.payment-terms_DyyBNWJa.en.esm.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/shop-js/modules/v2/chunk.common_9bWy_6S0.esm.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/shop-js/modules/v2/chunk.modal_ByBoMpEK.esm.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-1060834584ef204397b1179782a1b090047ee4397cb627244ab89e03f65c4307.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://unpkg.com/flickity@2/dist/flickity.min.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js?id=AW-11394628411",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/XgmU7u/klaviyo.js?company_id=XgmU7u",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/extensions/a21b7a83-1a89-44bc-974b-e4906f4a67bb/pagefly-page-builder-125/assets/pagefly.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-1.1.0.min.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/files/logo_copper.png?v=1675033810",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/extensions/3be24535-9725-45a4-92df-8cdb5453fc71/recharge-subscriptions-126/assets/rc-widget.162cfb0e.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/extensions/3be24535-9725-45a4-92df-8cdb5453fc71/recharge-subscriptions-126/assets/rc-widget.fecb1bd3.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/extensions/3be24535-9725-45a4-92df-8cdb5453fc71/recharge-subscriptions-126/assets/vendor.c9f76d31.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/files/2717Bottle_1024x1024.jpg?v=1691510583",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://t3.ftcdn.net/jpg/02/44/52/00/240_F_244520062_YrD4WycO2WBbC1AgBSnM7abr7LpfUU1t.jpg",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://t3.ftcdn.net/jpg/04/19/05/22/240_F_419052206_eSFBRUiisLSGzO8baQtA57XJReVb2mIX.jpg",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://t3.ftcdn.net/jpg/03/50/86/22/240_F_350862262_7SHRwy3bibXa3TXT4yWsMjW1dlHkoWel.jpg",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://t4.ftcdn.net/jpg/02/20/82/23/240_F_220822305_f0BaMnViuffS9chr64Tdw6KsQAjM6GOc.jpg",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/s/files/1/0656/4862/3835/files/chart.png?v=1660084102",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/s/files/1/0716/5686/6094/files/recovery-logo-copper.png?v=1675034063",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://unpkg.com/flickity@2.3.0/dist/flickity.min.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://unpkg.com/flickity@2.3.0/dist/flickity.pkgd.min.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://conf.config-security.com/model",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://api.config-security.com/event",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://whale.camera/live/dot.txt",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/wpm/bad86c2a1w13cc8fe7pf85a3675m0df1455fm.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/s/trekkie.storefront.f713401b24dad9f39ade8f88b81d533f42427af4.min.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/shopify/assets/shop_events_listener-20905db421adb60b04582abab58b285362bc2e1011d17cd3eabb3bfe05798c59.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/t/4/assets/NNNouvelleGroteskSTD-Normal.woff2?v=98472802901219075281687906145",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAScAA0AAAAABrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAEgAAAABoAAAAcbyQ+3kdERUYAAARgAAAAHgAAACAAMwAGT1MvMgAAAZgAAABGAAAAVi+vS9xjbWFwAAAB8AAAAEAAAAFKwBMjvmdhc3AAAARYAAAACAAAAAj//wADZ2x5ZgAAAkAAAAEJAAABdH33LXtoZWFkAAABMAAAAC0AAAA2BroQKWhoZWEAAAFgAAAAHAAAACQD5QHQaG10eAAAAeAAAAAPAAAAFAYAAABsb2NhAAACMAAAAA4AAAAOAO4AeG1heHAAAAF8AAAAHAAAACAASgAvbmFtZQAAA0wAAADeAAABkorWfVZwb3N0AAAELAAAACkAAABEp3ubLXgBY2BkYADhPPP4OfH8Nl8ZuJkYQODS2fRrCPr/aSYGxq1ALgcDWBoAO60LkwAAAHgBY2BkYGDc+v80gx4TAwgASaAICmABAFB+Arl4AWNgZGBgYGPQYWBiAAIwyQgWc2AAAwAHVQB6eAFjYGRiYJzAwMrAwejDmMbAwOAOpb8ySDK0MDAwMbByMsCBAAMCBKS5pjA4PGB4wMR44P8BBj3GrQymQGFGkBwAjtgK/gAAeAFjYoAAEA1jAwAAZAAHAHgB3crBCcAwDEPRZydkih567CDdf4ZskmLwFBV8xBfCaC4BXkOUmx4sU0h2ngNb9V0vQCxaRKIAevT7fGWuBrEAAAAAAAAAAAA0AHgAugAAeAF9z79Kw1AUx/FzTm7un6QmJtwmQ5Bg1abgEGr/BAqlU6Gju+Cgg1MkQ/sA7Vj7BOnmO/gUvo2Lo14NqIO6/IazfD8HEODtmQCfoANwNsyp2/GJt3WKQrd1NLiYYWx2PBqOsmJMEOznPOTzfSCrhAtbbLdmeFLJV9eKd63WLrZcIcuaEVdssWCKM6pLCfTVOYbz/0pNSMSZKLIZpvh78sAUH6PlMrreTCabP9r+Z/puPZ2ur/RqpQHgh+MIegCnXeM4MRAPjYN//5tj4ZtTjkFqEdmeMShlEJ7tVAly2TAkx6R68Fl4E/aVvn8JqHFQ4JS1434gXKcuL31dDhzs3YbsEOAd/IU88gAAAHgBfY4xTgMxEEVfkk0AgRCioKFxQYd2ZRtpixxgRU2RfhU5q5VWseQ4JdfgAJyBlmNwAM7ABRhZQ0ORwp7nr+eZAa54YwYg9zm3ynPOeFRe8MCrciXOh/KSS76UV5L/iDmrLiS5AeU519wrL3jmSbkS5115yR2fyivJv9kx0ZMZ2RLZw27q87iNQi8EBo5FSPIMw3HqBboi5lKTGAGDp8FKXWP+t9TU01Lj5His1Ba6uM9dTEMwvrFmbf5GC/q2drW3ruXUhhsCiQOjznFlCzYhHUZp4xp76vsvQh89CQAAeAFjYGJABowM6IANLMrEyMTIzMjCXpyRWJBqZshWXJJYBKOMAFHFBucAAAAAAAAB//8AAngBY2BkYGDgA2IJBhBgAvKZGViBJAuYxwAABJsAOgAAeAFjYGBgZACCk535hiD60tn0azAaAEqpB6wAAA==",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/t/4/assets/NNNouvelleGroteskSTD-Black.woff2?v=179725392302571650731687906145",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/t/4/assets/NNNouvelleGroteskSTD-Medium.woff2?v=163800258701488932401687906145",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/fonts/roboto_mono/robotomono_n5.69c735857d36d3da60e65c3abb73b30d2b257d9d.woff2?h1=MjcxN3JlY292ZXJ5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=MjcxN3JlY292ZXJ5LmNvbQ&hmac=09b6640188dd93d2a7256fea4495073dcc134cb74c3e155485e4812a8771720c",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/s/files/1/0656/4862/3835/files/copper-strip.jpg?v=1659471387",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/s/files/1/0716/5686/6094/files/2717-dr-camacho-chiropractor-cream-pain-relief-recovery-bo-nickal-ufc-2.jpg?v=1734463593",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/s/files/1/0716/5686/6094/files/mailer.jpg?v=1687938277",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/t/4/assets/NNNouvelleGroteskSTD-Bold.woff2?v=154838129624634440401687906145",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.234f527c96efc492367d.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static-tracking.klaviyo.com/onsite/js/static.4b8f99d71b7685ee4f53.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/runtime.6ce179b6a421e6e297b7.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/sharedUtils.7a0f97f77d063550b4dd.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~atlas~onsite-triggering.a49ef971ee5fab0afe02.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms.07cf7a1d5843e1d1f309.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/default~in_app_forms~signup_forms~onsite-triggering.7a64e488a2e875dd465a.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/default~in_app_forms~signup_forms.86b3e30a89a3fa9029fd.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/signup_forms.80f76866f046b4312f64.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static-tracking.klaviyo.com/onsite/js/post_identification_sync.a5f87c9a40aef39977f6.js?cb=1&v2-route=1",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-713326894@8c292b77d3f5d6f0d2e16741d41166cb/sandbox/worker.modern.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-713326894@8c292b77d3f5d6f0d2e16741d41166cb/sandbox/worker.modern.js"
+    },
+    {
+        "url": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-691208494@22e92c2ad45662f435e4801458fb78cc/sandbox/worker.modern.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-691208494@22e92c2ad45662f435e4801458fb78cc/sandbox/worker.modern.js"
+    },
+    {
+        "url": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-250151214@5f2d219fe6f30dc82b1d95f56fd436a9/sandbox/worker.modern.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-250151214@5f2d219fe6f30dc82b1d95f56fd436a9/sandbox/worker.modern.js"
+    },
+    {
+        "url": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-shopify-app-pixel@0220/sandbox/worker.modern.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/web-pixel-shopify-app-pixel@0220/sandbox/worker.modern.js"
+    },
+    {
+        "url": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/app/web-pixel-728629550@afe7c2de16587d6c6689522527d6c67f/pixel.modern.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/app/web-pixel-365134126@8d894c63179843e74a9691414b5ad83d/pixel.modern.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/custom/web-pixel-shopify-custom-pixel@0220/sandbox/modern/products/recovery-cream",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/wpm@ad86c2a1w13cc8fe7pf85a3675m0df1455f/custom/web-pixel-shopify-custom-pixel@0220/sandbox/modern/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/services/login_with_shop/authorize?analytics_context=loginWithShopPrequal&analytics_trace_id=1900fbd8-c94f-410e-8c52-6c2329a8e84a&avoid_sdk_session=false&compact_layout=false&flow=prequal&flow_version=prequalAmount&hide_copy=true&locale=en&preact=true&redirect_uri=https%3A%2F%2F2717recovery.com&require_verification=false&response_mode=web_message&response_type=id_token&scope=openid+email+profile&sign_up_enabled=false&target_origin=https%3A%2F%2F2717recovery.com",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/services/login_with_shop/authorize?analytics_context=loginWithShopPrequal&analytics_trace_id=1900fbd8-c94f-410e-8c52-6c2329a8e84a&avoid_sdk_session=false&compact_layout=false&flow=prequal&flow_version=prequalAmount&hide_copy=true&locale=en&preact=true&redirect_uri=https%3A%2F%2F2717recovery.com&require_verification=false&response_mode=web_message&response_type=id_token&scope=openid+email+profile&sign_up_enabled=false&target_origin=https%3A%2F%2F2717recovery.com"
+    },
+    {
+        "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/SuisseIntl-Book.otf",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://shop.app/pay/sdk-session?analytics_context=loginWithShopPrequal&analytics_trace_id=1900fbd8-c94f-410e-8c52-6c2329a8e84a&avoid_sdk_session=false&compact_layout=false&flow=prequal&flow_version=prequalAmount&hide_copy=true&locale=en&preact=true&redirect_uri=https%3A%2F%2F2717recovery.com%2Fservices%2Flogin_with_shop%2Fcallback&require_verification=false&response_mode=form_post&response_type=id_token&scope=openid+pay%3Asession_token+profile+shop%3Atemp_user_id+shop%3Aaccount_uuid+email+phone&sign_up_enabled=false&target_origin=https%3A%2F%2F2717recovery.com&client_id=c4e948cf-085f-40fd-8dc0-431efddab0dd&state=V1Nub0FyL3JtenBBOVhmSjdnV0ZQakc1NGpadVRUYmtYKzRyeCsrNVhFbTJveUdhald2c3liSFl2dlpjV1hIWjh0SUxzL0ZLZXk0M0RBMzJ2TVZuVi82U3d0UUhiUUNmR2d1aVduOHBRUWFaWGQ3b3FJby9tMnMvcWNKOTdaSFNHOWd3czM2TGJJdXJLNUp6RjZYVlRnOHRFZ0V1WXlVeXJhWDBySk5VSGxUZHRwOHZSTjIxV2lOK3hjZHhxYWhLRC9MS1lEYlFBWjZvY2R5QStQNEh1MGFzVWYzQ3RzWXE1dG1uOVIrcFdjZTlCRkZ1dzNwZktxU2NWSWRZcnMzZndLRDI0dldzNEQrclNVZnhMTXdFVlJBc1g5V3N2NGt6RDBLMjFyd0R6a1JKc2RXTUV4c3dTOHJoZ2dOekNEUjZkTW12UUt3RGVuYUU3b3lzcGV6bXJZMGlRVUF3ZDZyZ2dMem91ZDVQS3hEZW9UTjkxd0E1TDNBSU5RTzZIZy9QcmZkeGVWYVpjR3ZYVzVvRmNaY2xzMnUzclBEVkQwQWlOZWgzTi9LWXBzckg3OFFBQVpaSFpMRy92VWUxb0Qra0MrSEJiaXN0eUMzdXk2bEpWSFFjOTlVT0lPTjJuTDdRY3pldkNHYzkwZ1c3UkQrQU5ySWVldC9wZEJqbnh0amc1b2FmY0dXU0MvZWgwZEdqcFZxOTlCZ2M0cVE3MHp2TGh4N29Jbk96NnRHTU12L2FhZ0hZbXRwODBSWm84TEFWLS1DNHVFTDA5QXA2TjA4R0pGM21lL1FnPT0%3D--f6bc586ea81ef55355e20c5c7a8862eaa1e007a2&uniq_token=0df40e4f-eec9-40a8-b429-5fdab84bb2e3&visit_token=f1fb9005-6141-46d9-949a-122fbcd5cc38&nonce=7uAzY6tXBD4zpLehyOC9WSEM&extend_buyer_identity_sdk=1",
+        "type": "GET",
+        "packet_name": "https://shop.app/pay/sdk-session?analytics_context=loginWithShopPrequal&analytics_trace_id=1900fbd8-c94f-410e-8c52-6c2329a8e84a&avoid_sdk_session=false&compact_layout=false&flow=prequal&flow_version=prequalAmount&hide_copy=true&locale=en&preact=true&redirect_uri=https%3A%2F%2F2717recovery.com%2Fservices%2Flogin_with_shop%2Fcallback&require_verification=false&response_mode=form_post&response_type=id_token&scope=openid+pay%3Asession_token+profile+shop%3Atemp_user_id+shop%3Aaccount_uuid+email+phone&sign_up_enabled=false&target_origin=https%3A%2F%2F2717recovery.com&client_id=c4e948cf-085f-40fd-8dc0-431efddab0dd&state=V1Nub0FyL3JtenBBOVhmSjdnV0ZQakc1NGpadVRUYmtYKzRyeCsrNVhFbTJveUdhald2c3liSFl2dlpjV1hIWjh0SUxzL0ZLZXk0M0RBMzJ2TVZuVi82U3d0UUhiUUNmR2d1aVduOHBRUWFaWGQ3b3FJby9tMnMvcWNKOTdaSFNHOWd3czM2TGJJdXJLNUp6RjZYVlRnOHRFZ0V1WXlVeXJhWDBySk5VSGxUZHRwOHZSTjIxV2lOK3hjZHhxYWhLRC9MS1lEYlFBWjZvY2R5QStQNEh1MGFzVWYzQ3RzWXE1dG1uOVIrcFdjZTlCRkZ1dzNwZktxU2NWSWRZcnMzZndLRDI0dldzNEQrclNVZnhMTXdFVlJBc1g5V3N2NGt6RDBLMjFyd0R6a1JKc2RXTUV4c3dTOHJoZ2dOekNEUjZkTW12UUt3RGVuYUU3b3lzcGV6bXJZMGlRVUF3ZDZyZ2dMem91ZDVQS3hEZW9UTjkxd0E1TDNBSU5RTzZIZy9QcmZkeGVWYVpjR3ZYVzVvRmNaY2xzMnUzclBEVkQwQWlOZWgzTi9LWXBzckg3OFFBQVpaSFpMRy92VWUxb0Qra0MrSEJiaXN0eUMzdXk2bEpWSFFjOTlVT0lPTjJuTDdRY3pldkNHYzkwZ1c3UkQrQU5ySWVldC9wZEJqbnh0amc1b2FmY0dXU0MvZWgwZEdqcFZxOTlCZ2M0cVE3MHp2TGh4N29Jbk96NnRHTU12L2FhZ0hZbXRwODBSWm84TEFWLS1DNHVFTDA5QXA2TjA4R0pGM21lL1FnPT0%3D--f6bc586ea81ef55355e20c5c7a8862eaa1e007a2&uniq_token=0df40e4f-eec9-40a8-b429-5fdab84bb2e3&visit_token=f1fb9005-6141-46d9-949a-122fbcd5cc38&nonce=7uAzY6tXBD4zpLehyOC9WSEM&extend_buyer_identity_sdk=1"
+    },
+    {
+        "url": "https://pay.shopify.com/pay/sdk-authorize?analytics_context=loginWithShopPrequal&analytics_trace_id=1900fbd8-c94f-410e-8c52-6c2329a8e84a&avoid_sdk_session=false&compact_layout=false&flow=prequal&flow_version=prequalAmount&hide_copy=true&locale=en&preact=true&redirect_uri=https%3A%2F%2F2717recovery.com%2Fservices%2Flogin_with_shop%2Fcallback&require_verification=false&response_mode=form_post&response_type=id_token&scope=openid+pay%3Asession_token+profile+shop%3Atemp_user_id+shop%3Aaccount_uuid+email+phone&sign_up_enabled=false&target_origin=https%3A%2F%2F2717recovery.com&client_id=c4e948cf-085f-40fd-8dc0-431efddab0dd&state=V1Nub0FyL3JtenBBOVhmSjdnV0ZQakc1NGpadVRUYmtYKzRyeCsrNVhFbTJveUdhald2c3liSFl2dlpjV1hIWjh0SUxzL0ZLZXk0M0RBMzJ2TVZuVi82U3d0UUhiUUNmR2d1aVduOHBRUWFaWGQ3b3FJby9tMnMvcWNKOTdaSFNHOWd3czM2TGJJdXJLNUp6RjZYVlRnOHRFZ0V1WXlVeXJhWDBySk5VSGxUZHRwOHZSTjIxV2lOK3hjZHhxYWhLRC9MS1lEYlFBWjZvY2R5QStQNEh1MGFzVWYzQ3RzWXE1dG1uOVIrcFdjZTlCRkZ1dzNwZktxU2NWSWRZcnMzZndLRDI0dldzNEQrclNVZnhMTXdFVlJBc1g5V3N2NGt6RDBLMjFyd0R6a1JKc2RXTUV4c3dTOHJoZ2dOekNEUjZkTW12UUt3RGVuYUU3b3lzcGV6bXJZMGlRVUF3ZDZyZ2dMem91ZDVQS3hEZW9UTjkxd0E1TDNBSU5RTzZIZy9QcmZkeGVWYVpjR3ZYVzVvRmNaY2xzMnUzclBEVkQwQWlOZWgzTi9LWXBzckg3OFFBQVpaSFpMRy92VWUxb0Qra0MrSEJiaXN0eUMzdXk2bEpWSFFjOTlVT0lPTjJuTDdRY3pldkNHYzkwZ1c3UkQrQU5ySWVldC9wZEJqbnh0amc1b2FmY0dXU0MvZWgwZEdqcFZxOTlCZ2M0cVE3MHp2TGh4N29Jbk96NnRHTU12L2FhZ0hZbXRwODBSWm84TEFWLS1DNHVFTDA5QXA2TjA4R0pGM21lL1FnPT0%3D--f6bc586ea81ef55355e20c5c7a8862eaa1e007a2&uniq_token=0df40e4f-eec9-40a8-b429-5fdab84bb2e3&visit_token=f1fb9005-6141-46d9-949a-122fbcd5cc38&nonce=7uAzY6tXBD4zpLehyOC9WSEM&extend_buyer_identity_sdk=1&cross_domain_shopify=true",
+        "type": "GET",
+        "packet_name": "https://pay.shopify.com/pay/sdk-authorize?analytics_context=loginWithShopPrequal&analytics_trace_id=1900fbd8-c94f-410e-8c52-6c2329a8e84a&avoid_sdk_session=false&compact_layout=false&flow=prequal&flow_version=prequalAmount&hide_copy=true&locale=en&preact=true&redirect_uri=https%3A%2F%2F2717recovery.com%2Fservices%2Flogin_with_shop%2Fcallback&require_verification=false&response_mode=form_post&response_type=id_token&scope=openid+pay%3Asession_token+profile+shop%3Atemp_user_id+shop%3Aaccount_uuid+email+phone&sign_up_enabled=false&target_origin=https%3A%2F%2F2717recovery.com&client_id=c4e948cf-085f-40fd-8dc0-431efddab0dd&state=V1Nub0FyL3JtenBBOVhmSjdnV0ZQakc1NGpadVRUYmtYKzRyeCsrNVhFbTJveUdhald2c3liSFl2dlpjV1hIWjh0SUxzL0ZLZXk0M0RBMzJ2TVZuVi82U3d0UUhiUUNmR2d1aVduOHBRUWFaWGQ3b3FJby9tMnMvcWNKOTdaSFNHOWd3czM2TGJJdXJLNUp6RjZYVlRnOHRFZ0V1WXlVeXJhWDBySk5VSGxUZHRwOHZSTjIxV2lOK3hjZHhxYWhLRC9MS1lEYlFBWjZvY2R5QStQNEh1MGFzVWYzQ3RzWXE1dG1uOVIrcFdjZTlCRkZ1dzNwZktxU2NWSWRZcnMzZndLRDI0dldzNEQrclNVZnhMTXdFVlJBc1g5V3N2NGt6RDBLMjFyd0R6a1JKc2RXTUV4c3dTOHJoZ2dOekNEUjZkTW12UUt3RGVuYUU3b3lzcGV6bXJZMGlRVUF3ZDZyZ2dMem91ZDVQS3hEZW9UTjkxd0E1TDNBSU5RTzZIZy9QcmZkeGVWYVpjR3ZYVzVvRmNaY2xzMnUzclBEVkQwQWlOZWgzTi9LWXBzckg3OFFBQVpaSFpMRy92VWUxb0Qra0MrSEJiaXN0eUMzdXk2bEpWSFFjOTlVT0lPTjJuTDdRY3pldkNHYzkwZ1c3UkQrQU5ySWVldC9wZEJqbnh0amc1b2FmY0dXU0MvZWgwZEdqcFZxOTlCZ2M0cVE3MHp2TGh4N29Jbk96NnRHTU12L2FhZ0hZbXRwODBSWm84TEFWLS1DNHVFTDA5QXA2TjA4R0pGM21lL1FnPT0%3D--f6bc586ea81ef55355e20c5c7a8862eaa1e007a2&uniq_token=0df40e4f-eec9-40a8-b429-5fdab84bb2e3&visit_token=f1fb9005-6141-46d9-949a-122fbcd5cc38&nonce=7uAzY6tXBD4zpLehyOC9WSEM&extend_buyer_identity_sdk=1&cross_domain_shopify=true"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.google.com/ccm/collect?en=page_view&dl=https%3A%2F%2F2717recovery.com%2Fproducts%2Frecovery-cream&scrsrc=www.googletagmanager.com&frm=0&rnd=908190702.1737312201&dt=27%3A17%20%7C%20Relief%20%26%20Recovery%20Cream&auid=462747982.1737312201&navt=n&npa=0&did=dNTU0Yz&gdid=dNTU0Yz&gtm=45be51g0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102067555~102067808~102081485~102123608&tft=1737312200680&tfd=3041&apve=1",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11394628411/?random=1737312200562&cv=11&fst=1737312200562&bg=ffffff&guid=ON&async=1&gtm=45be51g0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102067555~102067808~102081485~102123608&u_w=800&u_h=600&url=https%3A%2F%2F2717recovery.com%2Fproducts%2Frecovery-cream&hn=www.googleadservices.com&frm=0&tiba=27%3A17%20%7C%20Relief%20%26%20Recovery%20Cream&did=dNTU0Yz&gdid=dNTU0Yz&npa=0&pscdl=noapi&auid=462747982.1737312201&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B8.0.0.0%7CChromium%3B132.0.6834.83%7CGoogle%2520Chrome%3B132.0.6834.83&uamb=0&uam=&uap=Linux&uapv=6.1.85&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=4",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://td.doubleclick.net/td/rul/11394628411?random=1737312200562&cv=11&fst=1737312200562&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be51g0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102067555~102067808~102081485~102123608&u_w=800&u_h=600&url=https%3A%2F%2F2717recovery.com%2Fproducts%2Frecovery-cream&hn=www.googleadservices.com&frm=0&tiba=27%3A17%20%7C%20Relief%20%26%20Recovery%20Cream&did=dNTU0Yz&gdid=dNTU0Yz&npa=0&pscdl=noapi&auid=462747982.1737312201&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B8.0.0.0%7CChromium%3B132.0.6834.83%7CGoogle%2520Chrome%3B132.0.6834.83&uamb=0&uam=&uap=Linux&uapv=6.1.85&uaw=0&fledge=1&data=event%3Dgtag.config",
+        "type": "GET",
+        "packet_name": "https://td.doubleclick.net/td/rul/11394628411?random=1737312200562&cv=11&fst=1737312200562&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be51g0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102067555~102067808~102081485~102123608&u_w=800&u_h=600&url=https%3A%2F%2F2717recovery.com%2Fproducts%2Frecovery-cream&hn=www.googleadservices.com&frm=0&tiba=27%3A17%20%7C%20Relief%20%26%20Recovery%20Cream&did=dNTU0Yz&gdid=dNTU0Yz&npa=0&pscdl=noapi&auid=462747982.1737312201&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B8.0.0.0%7CChromium%3B132.0.6834.83%7CGoogle%2520Chrome%3B132.0.6834.83&uamb=0&uam=&uap=Linux&uapv=6.1.85&uaw=0&fledge=1&data=event%3Dgtag.config"
+    },
+    {
+        "url": "https://fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite?company_id=XgmU7u",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static-forms.klaviyo.com/forms/api/v7/XgmU7u/full-forms",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-F0W66CF148",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.googletagmanager.com/gtag/js?id=G-F0W66CF148&l=dataLayer&cx=c&gtm=45be51g0za200",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://connect.facebook.net/en_US/fbevents.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "OPTIONS",
+        "packet_name": "https://monorail-edge.shopifysvc.com/v1/produce"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "OPTIONS",
+        "packet_name": "https://monorail-edge.shopifysvc.com/v1/produce"
+    },
+    {
+        "url": "https://www.googletagmanager.com/static/service_worker/51g0/sw_iframe.html?origin=https%3A%2F%2F2717recovery.com",
+        "type": "GET",
+        "packet_name": "https://www.googletagmanager.com/static/service_worker/51g0/sw_iframe.html?origin=https%3A%2F%2F2717recovery.com"
+    },
+    {
+        "url": "https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Ubuntu+Condensed:ital,wght@0,400&display=swap",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/consent-tracking-api/v0.1/consent-tracking-api.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://shop.app/pay/session?v=1&token=0df40e4f-eec9-40a8-b429-5fdab84bb2e3&shop_id=71656866094",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/portable-wallets/latest/shop-pay-logo-CYhOC7ye.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/product/2022-06/8108919292206.json",
+        "type": "OPTIONS",
+        "packet_name": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/product/2022-06/8108919292206.json"
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/store_settings.json",
+        "type": "OPTIONS",
+        "packet_name": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/store_settings.json"
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/widget_settings.json",
+        "type": "OPTIONS",
+        "packet_name": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/widget_settings.json"
+    },
+    {
+        "url": "https://o58632.ingest.sentry.io/api/6107212/envelope/?sentry_key=80daabe83e364dacad4ad41c48140d4c&sentry_version=7",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/product/2022-06/8108919292206.json",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/store_settings.json",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.rechargecdn.com/store/2717recovery.myshopify.com/2020-12/widget_settings.json",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shopifycloud/shopify-xr-js/v1.0/shopify-xr.en.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget_v3/base.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/loader.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.google.com/pagead/1p-user-list/11394628411/?random=1737312200562&cv=11&fst=1737309600000&bg=ffffff&guid=ON&async=1&gtm=45be51g0za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=102067555~102067808~102081485~102123608&u_w=800&u_h=600&url=https%3A%2F%2F2717recovery.com%2Fproducts%2Frecovery-cream&hn=www.googleadservices.com&frm=0&tiba=27%3A17%20%7C%20Relief%20%26%20Recovery%20Cream&did=dNTU0Yz&gdid=dNTU0Yz&npa=0&pscdl=noapi&auid=462747982.1737312201&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B8.0.0.0%7CChromium%3B132.0.6834.83%7CGoogle%2520Chrome%3B132.0.6834.83&uamb=0&uam=&uap=Linux&uapv=6.1.85&uaw=0&fledge=1&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSGwCa7L7d7LLmlkswzdiwfQwBQK216ebJDEraOA&random=48684384&rmt_tld=0&ipr=y",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://connect.facebook.net/signals/config/824070826118860?v=2.9.180&r=stable&domain=2717recovery.com&hme=1b2b48fb279bc2e2881583cc2153b57f55e340ed882b2c5394167c8bc992d930&ex_m=70%2C122%2C107%2C111%2C61%2C4%2C100%2C69%2C16%2C97%2C89%2C51%2C54%2C174%2C177%2C189%2C185%2C186%2C188%2C29%2C101%2C53%2C77%2C187%2C169%2C172%2C182%2C183%2C190%2C132%2C41%2C192%2C193%2C34%2C144%2C15%2C50%2C198%2C197%2C134%2C18%2C40%2C1%2C43%2C65%2C66%2C67%2C71%2C93%2C17%2C14%2C96%2C92%2C91%2C108%2C52%2C110%2C39%2C109%2C30%2C94%2C26%2C170%2C173%2C141%2C86%2C56%2C84%2C33%2C73%2C0%2C95%2C32%2C28%2C82%2C83%2C88%2C47%2C46%2C87%2C37%2C11%2C12%2C13%2C6%2C7%2C25%2C22%2C23%2C57%2C62%2C64%2C75%2C102%2C27%2C76%2C9%2C8%2C80%2C48%2C21%2C104%2C103%2C105%2C98%2C10%2C20%2C3%2C38%2C74%2C19%2C5%2C90%2C81%2C44%2C35%2C85%2C2%2C36%2C63%2C42%2C106%2C45%2C79%2C68%2C112%2C60%2C59%2C31%2C99%2C58%2C55%2C49%2C78%2C72%2C24%2C113",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-F0W66CF148&gtm=45je51g0v9182350501za200&_p=1737312198248&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&tag_exp=102067555~102067808~102081485~102123608&gdid=dNTU0Yz.dYmNjMT&cid=570015770.1737312202&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B8.0.0.0%7CChromium%3B132.0.6834.83%7CGoogle%2520Chrome%3B132.0.6834.83&uamb=0&uam=&uap=Linux&uapv=6.1.85&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&dp=%2Fproducts%2Frecovery-cream&dt=27%3A17%20%7C%20Relief%20%26%20Recovery%20Cream&dl=https%3A%2F%2F2717recovery.com%2Fproducts%2Frecovery-cream&sid=1737312201&sct=1&seg=0&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&edid=dNzYwYj&tfd=4359",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.facebook.com/tr/?id=824070826118860&ev=PageView&dl=https%3A%2F%2F2717recovery.com&rl=&if=false&ts=1737312202118&sw=800&sh=600&v=2.9.180&r=stable&a=shopify_web_pixel&ec=0&o=4252&fbp=fb.1.1737312202113.851623312262671647&pm=1&hrl=31ae7e&ler=empty&cdl=API_unavailable&it=1737312201915&coo=false&dpo=&eid=sh-7fe06a4c-1110-4139-2844-B34DCB2E1566&cs_cc=1&cas=8317531298354804%2C8213646792077313%2C7587009748048743&rqm=GET",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=824070826118860&ev=PageView&dl=https%3A%2F%2F2717recovery.com&rl=&if=false&ts=1737312202118&sw=800&sh=600&v=2.9.180&r=stable&a=shopify_web_pixel&ec=0&o=4252&fbp=fb.1.1737312202113.851623312262671647&pm=1&hrl=31ae7e&ler=empty&cdl=API_unavailable&it=1737312201915&coo=false&dpo=&eid=sh-7fe06a4c-1110-4139-2844-B34DCB2E1566&cs_cc=1&cas=8317531298354804%2C8213646792077313%2C7587009748048743&rqm=FGET",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.facebook.com/tr/?id=824070826118860&ev=ViewContent&dl=https%3A%2F%2F2717recovery.com&rl=&if=false&ts=1737312202133&cd[content_ids]=%5B8108919292206%5D&cd[content_type]=product_group&cd[currency]=USD&cd[value]=45&sw=800&sh=600&v=2.9.180&r=stable&a=shopify_web_pixel&ec=1&o=4252&fbp=fb.1.1737312202113.851623312262671647&pm=1&hrl=cc8f71&ler=empty&cdl=API_unavailable&it=1737312201915&coo=false&dpo=&eid=sh-7fe06a54-6845-4767-F139-D07FD96F3FC6&cs_cc=1&cas=8430671623713398%2C8317531298354804%2C7487741144652111%2C6498802033572288&rqm=GET",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.facebook.com/privacy_sandbox/pixel/register/trigger/?id=824070826118860&ev=ViewContent&dl=https%3A%2F%2F2717recovery.com&rl=&if=false&ts=1737312202133&cd[content_ids]=%5B8108919292206%5D&cd[content_type]=product_group&cd[currency]=USD&cd[value]=45&sw=800&sh=600&v=2.9.180&r=stable&a=shopify_web_pixel&ec=1&o=4252&fbp=fb.1.1737312202113.851623312262671647&pm=1&hrl=cc8f71&ler=empty&cdl=API_unavailable&it=1737312201915&coo=false&dpo=&eid=sh-7fe06a54-6845-4767-F139-D07FD96F3FC6&cs_cc=1&cas=8430671623713398%2C8317531298354804%2C7487741144652111%2C6498802033572288&rqm=FGET",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget_v3/main.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/base.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/common.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/others.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/main.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/media.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://d2wy8f7a9ursnm.cloudfront.net/v5/bugsnag.min.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/common.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "data:application/font-woff;charset=utf-8;base64,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",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/others.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/main.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://sessions.bugsnag.com/",
+        "type": "OPTIONS",
+        "packet_name": "https://sessions.bugsnag.com/"
+    },
+    {
+        "url": "https://sessions.bugsnag.com/",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://geolocation-recommendations.shopifyapps.com/locale_bar/script.js?shop=2717recovery.myshopify.com",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.rechargecdn.com/assets/js/widget.min.js?shop=2717recovery.myshopify.com",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn1.judge.me/assets/installed.js?shop=2717recovery.myshopify.com",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget_v3/media.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.judge.me/widget/media.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://otlp-http-production.shopifysvc.com/v1/metrics",
+        "type": "OPTIONS",
+        "packet_name": "https://otlp-http-production.shopifysvc.com/v1/metrics"
+    },
+    {
+        "url": "https://otlp-http-production.shopifysvc.com/v1/metrics",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/.well-known/shopify/monorail/unstable/produce_batch",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1675034521&width=32",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "data:image/svg+xml,%0A%3Csvg width='13' height='12' viewBox='0 0 13 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.5563 6.06934L6.66733 11.9583L0.77832 6.06934H7.20269H12.5563Z' fill='%23ffffff'/%3E%3C/svg%3E%0A",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://judgeme-public-images.imgix.net/judgeme/medals-v2/auth/gold.svg?auto=format",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://judgeme-public-images.imgix.net/judgeme/medals-v2/tran/platinum.svg?auto=format",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://2717recovery.com/browsing_context_suggestions.json?source=geolocation_recommendation&country[enabled]=true&country[exclude]=US&currency[enabled]=true&currency[exclude]=USD&language[enabled]=true&language[exclude]=en&",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/polyfills.Bvnj2aN0.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/app.DRUF6ZWh.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/LegacyVaultedShippingMethods.BMX-XPcP.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/DeliveryMethodSelectorSection.f88GgmXS.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useUnauthenticatedErrorModal.BioTmSRJ.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/AmazonPayPCIButton.KEaYNXIE.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShopPayCaptcha.DG1TOs1b.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/CheckoutAsGuest.BOpe8iUn.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useRefEffect.FWtQWIHW.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/ShopPayLogo.BvsyAgpR.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/hooks.CVvtVsbA.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/LocalizationExtensionField.UQWf2ACC.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useShowShopPayOptin.BnnPYUpv.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/Rollup._c8p5lSE.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useShopPayRequiresVerification.D7H5X50C.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/Section.BOZxkNBk.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/GooglePayPCIButton.DXlrezOB.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/PayButtonSection.ComOpKBJ.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/RageClickCapture.BNpu-pfE.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useInstallmentsErrorHandler.Bz1qcDfD.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/index.-5UeflV-.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/DutyOptions.D6aUWQZ-.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/SubscriptionPriceBreakdown.BXzgCW_l.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useAmazonContact.CAN9Rua5.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/StockProblemsLineItemList.C59WYH2b.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/useGetBuyWithPrimeCheckoutSessionId.CE7lOUFR.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/index.GGtH_uzV.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/app.BtDbFeTa.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/LegacyVaultedShippingMethods.Bp61D3vS.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/DeliveryMethodSelectorSection.DcFEH8PJ.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/ShopPayCaptcha.CUoq2pCx.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/CheckoutAsGuest.C0wRU6wV.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/ShopPayLogo.D_HPU8Dh.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/LocalizationExtensionField.BO3829nT.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/Rollup.mj3hAev9.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/Section.BzDw6wmZ.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/PayButtonSection.DF7trkKf.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/RageClickCapture.DnkQ4tsk.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/DutyOptions.Bd1Z60K2.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/SubscriptionPriceBreakdown.Bqs0s4oM.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/useAmazonContact.D-Ox6Dnf.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/StockProblemsLineItemList.CxdIQKjw.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/shopifycloud/checkout-web/assets/c1.en/assets/useGetBuyWithPrimeCheckoutSessionId.DVQdwG9J.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://cdn.shopify.com/s/files/1/0716/5686/6094/files/logo_copper_x320.png?v=1675033810",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://tracking.aws.judge.me/widgets/track_bulk_events?_events_count=1",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-F0W66CF148&gtm=45je51g0v9182350501za200&_p=1737312198248&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&tag_exp=102067555~102067808~102081485~102123608&gdid=dNTU0Yz.dYmNjMT&cid=570015770.1737312202&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not%2520A(Brand%3B8.0.0.0%7CChromium%3B132.0.6834.83%7CGoogle%2520Chrome%3B132.0.6834.83&uamb=0&uam=&uap=Linux&uapv=6.1.85&uaw=0&are=1&frm=0&pscdl=noapi&_s=2&sid=1737312201&sct=1&seg=0&dl=https%3A%2F%2F2717recovery.com%2Fproducts%2Frecovery-cream&dt=27%3A17%20%7C%20Relief%20%26%20Recovery%20Cream&en=view_item&_ee=1&pr1=idshopify_US_8108919292206_49580576244014~nmRelief%20%26%20Recovery%20Cream~br27%3A17~ca~pr45&edid=dNzYwYj&ep.ecomm_prodid=shopify_US_8108919292206_49580576244014&epn.ecomm_totalvalue=45&ep.ecomm_pagetype=product&tfd=9390",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://judge.me/reviews/reviews_for_widget?url=2717recovery.myshopify.com&shop_domain=2717recovery.myshopify.com&platform=shopify&page=2&per_page=5&product_id=8108919292206",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/vendors~reviews~atlas~ClientStore.dd9d02dd9fc376e8dd48.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/ClientStore.1c2dc6277c846024241d.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://judgeme-public-images.imgix.net/judgeme/verified-badge-v2/verified-by-shop_light.svg",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=XgmU7u",
+        "type": "OPTIONS",
+        "packet_name": "https://a.klaviyo.com/onsite/track-analytics?company_id=XgmU7u"
+    },
+    {
+        "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=XgmU7u",
+        "type": "OPTIONS",
+        "packet_name": "https://a.klaviyo.com/onsite/track-analytics?company_id=XgmU7u"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/532.a2dbc23ef4ace44ac9ff.css",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/styles.c55c43061a96111d7f0b.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/vendors~Render.b55ed77ad943d4787ab7.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/js/Render.38048b77d380620d3a81.js",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=XgmU7u",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=XgmU7u",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://d3k81ch9hvuctc.cloudfront.net/company/XgmU7u/images/c2739308-a60b-4c8c-8e28-8eaa8940057e.jpeg",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_400.woff2",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_700.woff2",
+        "type": "GET",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    },
+    {
+        "url": "https://tracking.aws.judge.me/widgets/track_bulk_events?_events_count=2",
+        "type": "POST",
+        "packet_name": "https://2717recovery.com/products/recovery-cream"
+    }
+]
