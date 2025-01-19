@@ -21,6 +21,7 @@ Selenium manages web interactions in a Debian environment by:
 The Gemini-powered LLM:
 - Examines extracted CSS for better pagination strategies.
 - Suggests button placements for smoother navigation.
+![image](https://github.com/user-attachments/assets/28517bc1-cd98-49cd-afd0-56f02db98605)
 
 The workflow dynamically selects the most relevant navigation elements to ensure accurate progression through paginated content.
 
